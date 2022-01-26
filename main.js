@@ -1,4 +1,4 @@
-main.js
+
 import * as THREE from '../../libs/three/three.module.js';
 import * as THREE from '../../libs/VRButton.js';
 import * as THREE from '../../libs/three/jsm/OrbitControls.js';
